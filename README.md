@@ -33,8 +33,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/PreethiArunachalam/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120115840/6befe753-3b98-4cd1-9e6b-9fd906598d9f)
+
+### Name:PREETHI A A
+### Register Number:212222110035
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
